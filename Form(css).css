@@ -1,0 +1,29 @@
+.material-icons{
+    line-height: 2.25 !important;
+}
+.card-title{
+    padding-top: 40px;
+    font-weight: 400 !important;
+}
+.card .card-content{
+    padding-bottom: 0 !important;
+}
+.col.s12.tac{
+    text-align: left !important;
+}
+#cbody{
+    background-image: url("bg1.png");
+    background-color: rgba(255,255,255,0.6);
+    background-blend-mode: overlay;
+}
+.center .card-title{
+    font-size: xx-large;
+    font-weight: bold;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+.center.notify{
+    color: red;
+    font-weight: bold;
+    font-size: larger;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
